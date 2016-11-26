@@ -1,0 +1,1 @@
+C:\Python34\Lib\site-packages\PyQt4>pyuic4.bat d:\Source\timesheet\timesheet.ui -o d:\Source\timesheet\timesheet.py
